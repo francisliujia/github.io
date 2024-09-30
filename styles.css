@@ -1,0 +1,105 @@
+h1
+{
+    margin-top: 20px;
+    left:50px;
+    text-align: center;
+}
+
+h1, h3
+{
+    font-family: Arial, sans-serif;
+}
+
+h3
+{
+    margin-top: 20px;
+    left:50px;
+    text-align: center;
+}
+
+.p1 
+{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:20px;
+    text-align: justify;
+    padding-left: 20px;
+}
+
+.p2
+{
+    margin-left:20px;
+    margin-top:10px;
+    padding-left: 20px;
+}
+
+.home-ul
+{
+    margin-top: 50px;
+    margin-left:20px;
+}
+
+#footer 
+{
+    font-size: small;
+    margin-top: auto; /* Push the footer to the bottom */
+    text-align: center; /* Center the text */
+    padding: 10px; /* Optional: Add some padding */
+    background-color: #f1f1f1; /* Optional: Add a background color */
+}
+
+.navigation 
+{
+    position: fixed; /* Fixes the buttons to the corners */
+    bottom: 20px; /* Distance from the top */
+    margin-left: 20px;
+}
+
+.go-back 
+{
+    left: 20px; /* Distance from the left */
+}
+
+.next 
+{
+    right: 20px; /* Distance from the right */
+}
+
+.home-page
+{
+    left:20px;
+}
+.button 
+{
+    padding: 10px 15px;
+    background-color: #007BFF; /* Bootstrap primary color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer;
+}
+
+.button:hover 
+{
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+.profile-image
+{
+    text-align: center;
+}
+.profile-image-image
+{
+    width:200px;
+    height:250px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color: rgb(14, 100, 62);
+}
+ul li a:hover {
+    text-decoration: underline; /* Show underline on hover */
+}

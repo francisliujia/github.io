@@ -1,0 +1,72 @@
+10 or more HTML tags used:
+1. <!DOCTYPE html>
+2. <html>
+3. <head>
+4. <link>
+5. <script>
+6. <meta>
+7. <title>
+8. <body>
+9. <h1>
+10. <div>
+11. <img>
+12. <p>
+13. <ol>
+14. <li>
+15. <a>
+16. <footer>
+17. <br>
+18. <button>
+19. <input>
+20. <table>
+21. <thread>
+22. <td>
+23. <tr>
+24. <h3>
+25. <ul>
+
+
+5 or more CSS properties used:
+text-align
+margin-left
+margin-right
+padding-left
+padding-right
+line-height
+width
+color
+padding
+font-size
+background-color
+border
+border-radius
+cursor
+transition
+box-shadow
+outline
+margin-top
+left
+font-family
+position
+bottom
+text-decoration
+height
+
+5 different types or more CSS selectors used
+1. class selector
+2. tag selector
+3. id selector
+4. Descendant Selector
+5. Group Selector
+6. Adjacent Sibling Selector
+7. Hover Selector
+8. Focus Selector
+
+how you chose to use JavaScript and Bootstrap.
+ 1. I use JacaScript in hobbies.html page, when a user clicks the one of sports buttons, a image should pop up
+in the screen for 2 seconds
+
+ 2. I use JS in sports.html. I brorrowed this idea from the trivia homework, but the
+ code has been improved. User will see the correct answer feedback when click each button.
+
+ 3. bootstraps is used to enhance the general appearance. as the fundation of each page.

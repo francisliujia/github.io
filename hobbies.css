@@ -1,0 +1,35 @@
+h3 
+{
+    text-align: left;
+}
+.popupImage 
+{
+    display: none; /* Hide the image by default */
+    position: fixed; /* Position it fixed to the viewport */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust for centering */
+    z-index: 1000; /* Ensure it appears above other content */
+}
+
+    .buttons
+{
+    text-align: center;
+}
+
+.activity-button
+{
+    padding: 10px 20px; 
+    font-size: 16px; 
+    color: white; 
+    background-color: #84a91d; 
+    border: none; 
+    border-radius: 15px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+.activity-button:hover {
+    background-color: #0056b3; 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}

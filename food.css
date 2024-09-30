@@ -1,0 +1,30 @@
+h3 
+{
+    text-align: left;
+}
+p 
+{
+    margin-left: 40px;
+}
+.thread 
+{
+    font-weight: bold;
+}
+.table
+{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #7b997f;
+
+}
+th, td 
+{
+    border: 1px solid black; 
+    padding: 8px;
+    text-align: left; 
+}
+th {
+    background-color: #f2f2f2;
+}

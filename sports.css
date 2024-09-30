@@ -1,0 +1,68 @@
+h3 {
+    text-align: left;
+}
+.container 
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+input[type="text"] {
+    line-height: 1.8;
+    width: 25%;
+}
+
+div + p
+{
+    color: rgb(49, 170, 105);   
+}
+
+.sport-button
+{
+    padding: 10px 20px; 
+    font-size: 16px; 
+    color: white; 
+    background-color: #1d60a9; 
+    border: none; 
+    border-radius: 15px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+.sport-button:hover {
+    background-color: #0056b3; 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.submit-button
+{
+    padding: 10px 20px; 
+    font-size: 16px; 
+    color: white; 
+    background-color: #007bff; 
+    border: none; 
+    border-radius: 25px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+.submit-button:hover {
+    background-color: #0056b3; 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.square-input {
+    width: 300px; 
+    padding: 10px; 
+    font-size: 16px; 
+    border: 2px solid #007bff; 
+    border-radius: 0; 
+    outline: none; 
+    transition: border-color 0.3s; 
+}
+
+.square-input:focus {
+    border-color: #0056b3; 
+}
